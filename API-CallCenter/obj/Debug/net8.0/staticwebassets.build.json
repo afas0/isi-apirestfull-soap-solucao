@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ElZNN7mMuqtQ3kUk9Qo7EoWdHTXI/RdLLLYYpfEjTVw=",
+  "Source": "API-CallCenter",
+  "BasePath": "_content/API-CallCenter",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

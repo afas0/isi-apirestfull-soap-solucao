@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "API-CallCenter.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\WCF-Soap-Service\\WCF-Soap-Service.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
